@@ -1,4 +1,5 @@
-## 此專案提供追蹤進度
+# 歡迎來到 GDG on Campus NCHU
+此為官方的 GitHub Organization，將對成員 2025 的專案進行統一統整與追蹤
 
 <!--
 

@@ -1,5 +1,7 @@
 # 歡迎來到 GDG on Campus NCHU
 此為官方的 GitHub Organization，將對成員 2025 的專案進行統一統整與追蹤
+# 分組狀況
+![image](https://github.com/user-attachments/assets/a2ac7ca3-96a2-4a75-a978-38daef83124c)
 
 <!--
 
